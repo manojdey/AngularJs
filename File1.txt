@@ -1,3 +1,5 @@
 file1  manoj dey   1st  line  addeeddd 
 RFC  line  
 new  method  ()  for  RFC
+{
+}

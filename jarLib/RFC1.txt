@@ -1,1 +1,4 @@
 RFC  file  1  line1
+method  2()
+{
+}
